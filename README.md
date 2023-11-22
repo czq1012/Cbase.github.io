@@ -1,2 +1,2 @@
-# Cbase.github.io
-123
+# cbase.github.io
+C语言基础入门课程
